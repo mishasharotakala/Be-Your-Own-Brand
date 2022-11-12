@@ -41,6 +41,9 @@ dependencies:
   cloud_firestore: ^4.0.3
   firebase_storage: ^11.0.3
   firebase_messaging: ^14.0.3
+  google_fonts: ^3.0.1
+  curved_navigation_bar: ^1.0.3
+  cached_network_image: ^3.2.2
 
 dev_dependencies:
   flutter_test:
@@ -80,6 +83,24 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
+  fonts:
+    - family: VeganStylePersonalUse
+      fonts:
+        - asset: assets/fonts/VeganStylePersonalUse-5Y58.ttf
+    
+    - family: BeautifulPeoplePersonalUse  
+      fonts:
+        - asset: assets/fonts/BeautifulPeoplePersonalUse-dE0g.ttf
+
+    - family: Countryside
+      fonts:
+        - asset: assets/fonts/CountrysideTwo-r9WO.ttf
+        - asset: assets/fonts/Countryside-YdKj.ttf
+
+    - family: Signamaestro
+      fonts:
+        - asset: assets/fonts/Signamaestro-JRzK7.ttf
+        - asset: assets/fonts/Signamaestro-VG1n6.otf
   # fonts:
   #   - family: Schyler
   #     fonts:
