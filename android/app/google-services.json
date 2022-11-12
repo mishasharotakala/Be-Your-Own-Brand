@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648472292113",
+    "project_id": "be-your-own-brand-fb605",
+    "storage_bucket": "be-your-own-brand-fb605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648472292113:android:677fb2971be4658a873ab0",
+        "android_client_info": {
+          "package_name": "com.example.beyourownbrand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648472292113-srfa13ve06nls9lt1jbntaap3ds5qpu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUct5Yh2X8sZulF9raLyniOFvIw_XHA4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648472292113-srfa13ve06nls9lt1jbntaap3ds5qpu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
