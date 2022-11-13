@@ -1,7 +1,6 @@
-import 'package:be_your_own_brand/pages/abc.dart';
 import 'package:be_your_own_brand/pages/cde.dart';
 import 'package:be_your_own_brand/pages/page_one.dart';
-import 'package:be_your_own_brand/pages/travel_ui/activity_screen.dart';
+import 'package:be_your_own_brand/pages/travel_ui/travel_app.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 // 1
@@ -20,7 +19,7 @@ class Home extends StatefulWidget {
      static List<Widget> pages = <Widget>[
       // ignore: todo
       //TODO: Replace with Home
-      const ActivitiesScreen(),
+      const MyWidget(),
       const Cde(),
       //Container(color: Colors.blueGrey,),
       // ignore: todo
